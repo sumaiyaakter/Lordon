@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 300;
+    src: url('gotham-pro-light.woff') format('woff');
+}
+@font-face {
+    font-family: 'Gotham Pro';
+    font-style: italic;
+    font-weight: 300;
+    src:  url('gotham-pro-lightitalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: url('gotham-pro-regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 500;
+    src:  url('gotham-pro-medium.woff') format('woff');
+}
+@font-face {
+    font-family: 'Gotham Pro';
+    font-style: italic;
+    font-weight: 500;
+    src:  url('gothampro-mediumitalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 700;
+    src: url('gotham-pro-bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 800;
+    src:  url('gotham-pro-black.woff') format('woff');
+}
+
+
+
+
+/* 
+
+h1  48 - 800- #fff -text-transfrom-uppercase
+h2  24 - 800 - FFFFFF
+h3  20 - 400 - #fff - lh-40- 
+h4  18 - 800 - FFFFFF - lh
+h5  16 - 800 - FFFFF
+h5-small   14 - 800 - FFFFFF
+h6  14 - 500 - FFFFFF(75%)
+
+body-font  16 - FFFFFF(75%) - 400 - lh-36-
+13 - 400 - FFFFFF(75%) - lh-29- 
+
+40 - 2.0
+36 - 2.25
+29 - 2.23
+
+*/
+
